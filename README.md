@@ -7,8 +7,10 @@ Source: https://www.quora.com/Which-is-the-best-site-for-preparing-for-Google-in
 
 # Database queries ( mysql )
 
-  https://codefights.com/arcade/db
+  Good starting point : https://codefights.com/arcade/db
   
   Slightly tougher : https://www.hackerrank.com/domains/sql/select
+  
+  https://leetcode.com/problemset/database/
   
   my Anki Card.
