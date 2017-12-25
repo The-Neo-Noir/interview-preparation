@@ -9,4 +9,6 @@ Source: https://www.quora.com/Which-is-the-best-site-for-preparing-for-Google-in
 
   https://codefights.com/arcade/db
   
+  Slightly tougher : https://www.hackerrank.com/domains/sql/select
+  
   my Anki Card.
