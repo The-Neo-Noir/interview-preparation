@@ -5,6 +5,8 @@ Interview Cake - a lot of interview questions are “progressive”; they start 
 Source: https://www.quora.com/Which-is-the-best-site-for-preparing-for-Google-interviews
 
 
-Database queries 
+# Database queries ( mysql )
+
   https://codefights.com/arcade/db
+  
   my Anki Card.
