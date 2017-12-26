@@ -14,3 +14,8 @@ Source: https://www.quora.com/Which-is-the-best-site-for-preparing-for-Google-in
   https://leetcode.com/problemset/database/
   
   my Anki Card.
+# System Design
+
+
+How to generate business unique key in distributed environments
+https://www.mongodb.com/blog/post/generating-globally-unique-identifiers-for-use-with-mongodb
