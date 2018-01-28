@@ -19,3 +19,8 @@ Source: https://www.quora.com/Which-is-the-best-site-for-preparing-for-Google-in
 
 How to generate business unique key in distributed environments
 https://www.mongodb.com/blog/post/generating-globally-unique-identifiers-for-use-with-mongodb
+
+
+# Object Orientation 
+
+Try making the super class abstract, by doing so we are forcing the client to think there has to be a subclass which needs to used.
