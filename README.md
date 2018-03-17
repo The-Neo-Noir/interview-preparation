@@ -18,7 +18,12 @@ Source: https://www.quora.com/Which-is-the-best-site-for-preparing-for-Google-in
 
 
 How to generate business unique key in distributed environments
+
 https://www.mongodb.com/blog/post/generating-globally-unique-identifiers-for-use-with-mongodb
+
+A comparision between cassandra and mongodb , a good read, the comments are also 
+
+https://scalegrid.io/blog/cassandra-vs-mongodb/
 
 
 # Object Orientation 
