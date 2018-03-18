@@ -29,3 +29,8 @@ https://scalegrid.io/blog/cassandra-vs-mongodb/
 # Object Orientation 
 
 Try making the super class abstract, by doing so we are forcing the client to think there has to be a subclass which needs to used.
+
+
+# Kafka
+
+ https://community.hortonworks.com/articles/80813/kafka-best-practices-1.html
