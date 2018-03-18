@@ -34,3 +34,7 @@ Try making the super class abstract, by doing so we are forcing the client to th
 # Kafka
 
  https://community.hortonworks.com/articles/80813/kafka-best-practices-1.html
+ 
+#Restful
+
+http://restcookbook.com/
