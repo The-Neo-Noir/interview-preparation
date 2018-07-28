@@ -5,6 +5,10 @@ Interview Cake - a lot of interview questions are “progressive”; they start 
 Source: https://www.quora.com/Which-is-the-best-site-for-preparing-for-Google-interviews
 
 
+# Spring interview questios: 
+   http://www.codespaghetti.com/spring-interview-questions/
+
+
 # Database queries ( mysql )
 
   Good starting point : https://codefights.com/arcade/db
