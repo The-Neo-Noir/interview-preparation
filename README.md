@@ -44,6 +44,9 @@ https://scalegrid.io/blog/cassandra-vs-mongodb/
 
 Try making the super class abstract, by doing so we are forcing the client to think there has to be a subclass which needs to used.
 
+# UML
+
+   https://vaughnvernon.co/?page_id=31
 
 # Kafka
 
