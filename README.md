@@ -12,8 +12,11 @@ Source: https://www.quora.com/Which-is-the-best-site-for-preparing-for-Google-in
 # Database queries ( mysql )
   Basic Level:
     https://www.w3schools.com/sql/ : Amazing starting point. Know all the basic things needed.
+    
     https://www.w3schools.com/sql/sql_quiz.asp: Don't forget to take the quiz.
+    
     Check out the amazing reference , may not be the full list, but good enough https://www.w3schools.com/sql/sql_ref_mysql.asp
+    
    
   Good starting point : https://codefights.com/arcade/db
   
