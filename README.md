@@ -37,6 +37,9 @@ A comparision between cassandra and mongodb , a good read, the comments are also
 https://scalegrid.io/blog/cassandra-vs-mongodb/
 
 
+# Theads 
+  https://dzone.com/articles/do-immutability-really-means
+
 # Object Orientation 
 
 Try making the super class abstract, by doing so we are forcing the client to think there has to be a subclass which needs to used.
