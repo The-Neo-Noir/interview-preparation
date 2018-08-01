@@ -18,11 +18,11 @@ Source: https://www.quora.com/Which-is-the-best-site-for-preparing-for-Google-in
     Check out the amazing reference , may not be the full list, but good enough https://www.w3schools.com/sql/sql_ref_mysql.asp
     
    
-  Good starting point : https://codefights.com/arcade/db
+  Good starting point : https://www.hackerrank.com/domains/sql/select 
   
-  Slightly tougher : https://www.hackerrank.com/domains/sql/select
+  slightly tougher with some good catch points: https://codefights.com/arcade/db
   
-  https://leetcode.com/problemset/database/
+  Practise this as well: https://leetcode.com/problemset/database/
   
   my Anki Card.
 # System Design
