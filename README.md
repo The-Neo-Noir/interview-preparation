@@ -5,6 +5,12 @@ Interview Cake - a lot of interview questions are “progressive”; they start 
 Source: https://www.quora.com/Which-is-the-best-site-for-preparing-for-Google-interviews
 
 
+# Interview preparation sites:
+
+https://refdash.com/login
+
+https://www.geekyprep.com/
+
 # Spring interview questios: 
    http://www.codespaghetti.com/spring-interview-questions/
 
@@ -25,6 +31,11 @@ Source: https://www.quora.com/Which-is-the-best-site-for-preparing-for-Google-in
   Practise this as well: https://leetcode.com/problemset/database/
   
   my Anki Card.
+  
+# System Design and programming discussion 
+
+https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
+
 # System Design
 
 
@@ -35,6 +46,7 @@ https://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview
 
 https://github.com/donnemartin/system-design-primer
 
+https://www.youtube.com/watch?v=0s1aVoeF0Gs
 
 http://highscalability.com/all-time-favorites/
 
