@@ -28,6 +28,25 @@ Source: https://www.quora.com/Which-is-the-best-site-for-preparing-for-Google-in
 # System Design
 
 
+Grokking the System Design Interview: https://www.educative.io/collection/5668639101419520/5649050225344512?authorName=Design%20Gurus
+
+
+https://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview
+
+https://github.com/donnemartin/system-design-primer
+
+
+http://highscalability.com/all-time-favorites/
+
+https://www.hiredintech.com/classrooms/system-design/lesson/52
+
+https://www.interviewbit.com/courses/system-design/
+
+https://github.com/shashank88/system_design#designques
+
+https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/
+
+
 How to generate business unique key in distributed environments
 
 https://www.mongodb.com/blog/post/generating-globally-unique-identifiers-for-use-with-mongodb
