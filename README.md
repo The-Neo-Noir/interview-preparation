@@ -93,6 +93,11 @@ Some design questions , we should try
 
 12. Game(human vs human) of chess, sudoku, tic tac toe etc.
 
+CAP Theorem and a great war, Did you understand CAP properly ? Feast your brain 
+   https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html
+   https://arxiv.org/abs/1509.05393
+   https://research.google.com/pubs/pub45855.html?hl=pl
+   
 
 # Theads 
   https://dzone.com/articles/do-immutability-really-means
