@@ -98,6 +98,9 @@ CAP Theorem and a great war, Did you understand CAP properly ? Feast your brain
    https://arxiv.org/abs/1509.05393
    https://research.google.com/pubs/pub45855.html?hl=pl
    
+  CAP Theorem in terms of mysql 
+  http://messagepassing.blogspot.com/2012/03/cap-theorem-and-mysql-cluster.html
+   
 
 # Theads 
   https://dzone.com/articles/do-immutability-really-means
