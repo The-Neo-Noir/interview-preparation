@@ -121,8 +121,38 @@ Try making the super class abstract, by doing so we are forcing the client to th
 
 http://restcookbook.com/
 
-# Programming
+# Programming Seft created. 
 > Can you find the closest number that is 2^n ? 
+
 > Can you find if a number is power of 2^n ? 
+
 > can you find if a number is power of 3^n or for that matter m^n ? 
+
+# Programming BitWISE: 
+
+> Flip unset kth bit: https://app.codesignal.com/arcade/code-arcade/corner-of-0s-and-1s/b5z4P2r2CGCtf8HCR
+
+    For n = 37 and k = 3, the output should be
+      killKthBit(n, k) = 33.
+
+      3710 = 1001012 ~> 1000012 = 3310.
+
+> Array Packing : https://app.codesignal.com/arcade/code-arcade/corner-of-0s-and-1s/KeMqde6oqfF5wBXxf
+  
+   For a = [24, 85, 0], the output should be
+   arrayPacking(a) = 21784.
+
+   An array [24, 85, 0] looks like [00011000, 01010101, 00000000] in binary.
+   After packing these into one number we get 00000000 01010101 00011000 (spaces are placed for convenience), which equals to 21784.
+ 
+
+# Coding practise places
+> Hackerearth.com
+
+> Hackerrank.com
+
+> leetcode.com
+
+> https://app.codesignal.com/arcade/code-arcade
+> 
 
