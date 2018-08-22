@@ -128,6 +128,10 @@ http://restcookbook.com/
 
 > can you find if a number is power of 3^n or for that matter m^n ? 
 
+> can you count the number of 1's in a binary representation of a decimal number ? 
+
+
+
 # Programming BitWISE: 
 
 > Flip unset kth bit: https://app.codesignal.com/arcade/code-arcade/corner-of-0s-and-1s/b5z4P2r2CGCtf8HCR
