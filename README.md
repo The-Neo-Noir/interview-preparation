@@ -120,3 +120,9 @@ Try making the super class abstract, by doing so we are forcing the client to th
 #Restful
 
 http://restcookbook.com/
+
+# Programming
+> Can you find the closest number that is 2^n ? 
+> Can you find if a number is power of 2^n ? 
+> can you find if a number is power of 3^n or for that matter m^n ? 
+
