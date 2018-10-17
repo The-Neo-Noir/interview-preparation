@@ -104,6 +104,9 @@ CAP Theorem and a great war, Did you understand CAP properly ? Feast your brain
 
 # Theads 
   https://dzone.com/articles/do-immutability-really-means
+  
+# Memory Model: 
+  https://betsol.com/2017/06/java-memory-management-for-java-virtual-machine-jvm/
 
 # Object Orientation 
 
